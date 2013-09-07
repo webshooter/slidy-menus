@@ -1,0 +1,1 @@
+A working project to better understand CCScrollLayer and CCClippingNode
